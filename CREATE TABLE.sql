@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS EMPLOYEE(
+    EmpID INT,
+    FirstName VARCHAR(200),
+    LastName VARCHAR(100),
+    EmpAge INT,
+    EmpZone VARCHAR(225)
+);

@@ -1,0 +1,1 @@
+SELECT EmpID,FirstName,LastName FROM EMPLOYEE;
