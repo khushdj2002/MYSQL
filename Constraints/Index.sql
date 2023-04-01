@@ -1,0 +1,7 @@
+SELECT *  FROM Employee;
+CREATE INDEX DEMOINDEX
+ON Employee(FirstName);
+
+SHOW INDEXES FROM Employee;
+
+DROP INDEX DEMOINDEX on Employee;

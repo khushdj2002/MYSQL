@@ -1,0 +1,12 @@
+-- CREATE TABLE EMPLOYEE4(
+--     EmpId INT NOT NULL,
+--     FirstName VARCHAR(200),
+--     LAstName VARCHAR(200),
+--     EmpDept VARCHAR(255) DEFAULT 'OPerations',
+--     EmpAGE INT -- CHECK(EmpAGE>20)
+-- );
+-- DESC EMPLOYEE4;
+INSERT INTO EMPLOYEE4
+VALUES(1, 'Kush', 'D', 'kjdbfk', 21);
+SELECT *
+FROM EMPLOYEE4;
