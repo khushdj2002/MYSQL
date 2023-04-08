@@ -5,3 +5,9 @@ CREATE TABLE IF NOT EXISTS EMPLOYEE(
     EmpAge INT,
     EmpZone VARCHAR(225)
 );
+CREATE TABLE IF NOT EXISTS Sdot(
+    Reg_Id VARCHAR(9),
+    Name CHAR(20),
+    App_Id DOUBLE(10),
+    Course_Name CHAR(8)
+);
